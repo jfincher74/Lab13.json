@@ -1,0 +1,29 @@
+body{
+	background-color: #f5b041;
+}
+
+.reddit ul {
+	padding: 72px 144px 72px 12px; 
+	margin: 100px; 
+	border-color: white;
+	border-width: 6px;
+	border-style: solid;
+	background-color: #82e0aa;
+	border-radius: 15% 15% 15% 15%;
+}
+
+.reddit img {
+	float: right;
+	clear: right;
+	position: relative;
+	bottom: 72px;
+	right: 144px;
+}
+.reddit li {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 24px;
+	text-decoration: italic;
+	font-weight: lighter;
+	position: relative;
+	left: 72px;
+}
